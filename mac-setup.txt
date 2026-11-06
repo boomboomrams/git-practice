@@ -1,0 +1,1 @@
+Mac setup verified: Homebrew, Python, Git, and shell aliases.
